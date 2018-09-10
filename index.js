@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return str(n)
+  return n.toString
 }
